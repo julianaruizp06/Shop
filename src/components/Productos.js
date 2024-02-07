@@ -9,14 +9,18 @@ const styles = {
     gap: "50px",
     margin: "auto", // Centrar horizontalmente
     alignItems: "center", // Centrar verticalmente
+    alignContent:"center",
     maxWidth: "1200px", // Opcional: establece un ancho máximo para el contenedor
   },
+ 
 };
 
 class Productos extends Component{
   render(){
     const { productos, agregarCarro} = this.props
     return (
+
+
 
       <div style={styles.productos}>
         {productos.map(producto =>
@@ -26,6 +30,7 @@ class Productos extends Component{
           producto={producto}
           />)}
       </div>
+    
 
     )
   }

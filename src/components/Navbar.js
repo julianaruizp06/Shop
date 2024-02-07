@@ -7,12 +7,12 @@ const styles={
         display:"flex",
         flexDirection:"row",
         alignItems:"center",
-        height:"100%",
+        height:"auto",
         justifyContent:"space-between",
         position:"relative",
         padding:"2px 2px",
-        boxShadow:"0 2px 3px rgb(0,0,0,0.1)"
-
+        boxShadow:"0 2px 3px rgb(0,0,0,0.1)",
+        background:"#000"
     }
 }
 

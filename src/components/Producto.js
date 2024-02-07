@@ -11,7 +11,8 @@ const styles = {
     width: "50%",
     heigth: "30%",
     padding: "10px 15px", 
-    borderRadius: "5px"
+    borderRadius: "5px",
+    background:"#fff"
     
   },
   img: {
