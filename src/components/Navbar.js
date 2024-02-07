@@ -7,7 +7,7 @@ const styles={
         display:"flex",
         flexDirection:"row",
         alignItems:"center",
-        height:"100px",
+        height:"100%",
         justifyContent:"space-between",
         position:"relative",
         padding:"0 50px",
