@@ -1,8 +1,7 @@
 import { Component } from "react";
 const styles ={
     layout:{
-        backgroundColor:"#FFFFFf",
-        color:"#0A283E",
+      
         display:"flex",
         flexDirection: "column",
         alignItems:"center",        

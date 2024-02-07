@@ -10,8 +10,7 @@ const styles = {
     justifyCcontent: "center",
     width: "50%",
     heigth: "30%",
-    padding: "10px 15px",
-    backgroundColor: "white",
+    padding: "10px 15px", 
     borderRadius: "5px"
     
   },
