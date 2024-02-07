@@ -10,7 +10,7 @@ const styles={
         height:"100%",
         justifyContent:"space-between",
         position:"relative",
-        padding:"0 50px",
+        padding:"2px 2px",
         boxShadow:"0 2px 3px rgb(0,0,0,0.1)"
 
     }
