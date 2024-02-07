@@ -8,11 +8,12 @@ const styles = {
     display: "flex",
     flexDirection: "column",
     justifyCcontent: "center",
-    width: "50%",
+    width: "40%",
     heigth: "30%",
     padding: "10px 15px", 
     borderRadius: "5px",
-    background:"#fff"
+    background:"#fff",
+    fontSize:"14px"
     
   },
   img: {
