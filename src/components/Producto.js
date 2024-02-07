@@ -3,7 +3,7 @@ import Button from "../components/Button"
 
 const styles = {
   producto: {
-    border: "solid 1px #eee",
+    border: "solid 1px #FFFFF0",
     boxShadow: "0 5px 5px rgb(0, 0, 0, 0.1)",
     display: "flex",
     flexDirection: "column",
@@ -13,6 +13,7 @@ const styles = {
     padding: "10px 15px",
     backgroundColor: "white",
     borderRadius: "5px"
+    
   },
   img: {
     width: "100%"

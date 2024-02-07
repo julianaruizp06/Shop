@@ -19,10 +19,6 @@ class Logo extends Component{
              Shop
             </div>
         )
-
-    }
-   
-
-    
+    }    
 }
  export default Logo
