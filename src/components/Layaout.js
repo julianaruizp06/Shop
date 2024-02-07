@@ -9,7 +9,7 @@ const styles ={
         padding:"10px 10px 10px 10px"
     },
     container:{
-        width:"1200px",
+        width:"auto",
            }
 }
 
