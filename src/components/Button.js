@@ -8,7 +8,8 @@ const styles = {
         justifyContent: "center",
         padding:"15px 20px",
         cursor:"pointer",
-        backgroundColor:"#F8C471"
+        backgroundColor:"#F8C471",
+        fontSize:"12px",
 
     }
 }

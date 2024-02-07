@@ -3,6 +3,7 @@ import Producto from "./Producto"
 
 const styles = {
   productos: {
+    fontSize:"10px",
     display: "grid",
     gridTemplateColumns: "repeat(3, 1fr)",
     justifyContent: "space-around",

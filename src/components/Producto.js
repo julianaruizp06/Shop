@@ -13,7 +13,7 @@ const styles = {
     padding: "10px 15px", 
     borderRadius: "5px",
     background:"#fff",
-    fontSize:"14px"
+    fontSize:"10px",
     
   },
   img: {
